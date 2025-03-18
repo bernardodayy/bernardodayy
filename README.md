@@ -16,6 +16,8 @@ Eu sou o Bernardo Day, sou programador Front End, atualmente estou aprendendo e 
 <a href="https://www.linkedin.com/in/bernardo-day-753372342/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img-linkdin" /> <a/>
 
 <br>
+<h4>STATUS :point_down:</h4>
+<br>
 
 [![Bernardo Day stats](https://github-readme-stats.vercel.app/api?username=Bernardodayy)](https://github.com/anuraghazra/github-readme-stats)
 
